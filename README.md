@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/lofi.gif" width="100%">
+<img src="lofi_girl_github.gif" width="100%">
 
 # 👋 Hi, I'm Lopamudra Raut
 
